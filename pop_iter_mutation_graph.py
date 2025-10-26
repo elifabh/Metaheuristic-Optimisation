@@ -2,7 +2,7 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 
-from GulAbdulHalim_Elif_R00278544_MH1 import BasicTSP, genDists, myStudentNum
+from MODULE_NAME import BasicTSP, genDists, myStudentNum
 
 
 import sys, os, random, math, traceback
