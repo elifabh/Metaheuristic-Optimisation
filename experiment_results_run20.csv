@@ -1,0 +1,18 @@
+Experiment Name,Instance,Description,Number of Runs,nIters (Generations),popSize,xoverH,Pc,mutH,Pm,elites,trunk,Best Distance Found,Average Distance,Initial Average Distance,Total Time (s)
+Exp1_OX Crossover,inst-c.tsp,Default with OX,20,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5127678.50,14997631.55,107.432
+Exp1_Uniform Crossover,inst-c.tsp,Default with Uniform,20,1000,100,1,0.9,0,0.2,0.1,0.5,5431582.00,5865284.05,14997631.55,95.079
+Exp2_Reciprocal Mutation,inst-c.tsp,Default with Reciprocal,20,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5127678.50,14997631.55,107.148
+Exp2_Inversion Mutation,inst-c.tsp,Default with Inversion,20,1000,100,0,0.9,1,0.2,0.1,0.5,3370682.00,3523635.65,14997631.55,107.314
+Exp3_Pc=0.8,inst-c.tsp,Pc=0.8,20,1000,100,0,0.8,0,0.2,0.1,0.5,4774395.00,5057826.10,14997631.55,101.725
+Exp3_Pc=0.9,inst-c.tsp,Pc=0.9 (default),20,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5127678.50,14997631.55,107.517
+Exp3_Pc=1.0,inst-c.tsp,Pc=1.0,20,1000,100,0,1.0,0,0.2,0.1,0.5,4601258.00,5085177.85,14997631.55,112.920
+Exp4_Pm=0.05,inst-c.tsp,Pm=0.05,20,1000,100,0,0.9,0,0.05,0.1,0.5,5588116.00,5889600.30,14997631.55,106.250
+Exp4_Pm=0.2,inst-c.tsp,Pm=0.2 (default),20,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5127678.50,14997631.55,107.878
+Exp4_Pm=0.3,inst-c.tsp,Pm=0.3,20,1000,100,0,0.9,0,0.3,0.1,0.5,4668607.00,4980880.90,14997631.55,108.065
+Exp5_Elitism=0.0,inst-c.tsp,No Elitism,20,1000,100,0,0.9,0,0.2,0.0,0.5,5144669.00,5624904.95,14997631.55,119.301
+Exp5_Elitism=0.1,inst-c.tsp,Elitism=0.1 (default),20,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5127678.50,14997631.55,107.458
+"Exp6_Pop=50,Gen=2000",inst-c.tsp,50x2000 (100K total),20,2000,50,0,0.9,0,0.2,0.1,0.5,4610018.00,5003469.80,15049657.40,107.384
+"Exp6_Pop=100,Gen=1000",inst-c.tsp,100x1000 (100K total),20,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5127678.50,14997631.55,107.391
+"Exp6_Pop=200,Gen=500",inst-c.tsp,200x500 (100K total),20,500,200,0,0.9,0,0.2,0.1,0.5,4687014.00,5290664.70,14750933.00,108.666
+Default_inst-d.tsp,inst-d.tsp,Default settings on inst-d.tsp,20,1000,100,0,0.9,0,0.2,0.1,0.5,29535422.00,32976102.10,109251689.95,550.520
+Evolution_Default_inst-c.tsp,inst-c.tsp,Evolution analysis - default settings (1 run for graph),20,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5127678.50,14997631.55,107.251

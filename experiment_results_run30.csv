@@ -1,0 +1,17 @@
+Experiment Name,Instance,Description,Number of Runs,nIters (Generations),popSize,xoverH,Pc,mutH,Pm,elites,trunk,Best Distance Found,Average Distance,Initial Average Distance,Total Time (s)
+Exp1_OX Crossover,inst-c.tsp,Default with OX,30,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5109186.10,14976821.10,161.281
+Exp1_Uniform Crossover,inst-c.tsp,Default with Uniform,30,1000,100,1,0.9,0,0.2,0.1,0.5,5431582.00,5899030.70,14976821.10,143.525
+Exp2_Reciprocal Mutation,inst-c.tsp,Default with Reciprocal,30,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5109186.10,14976821.10,161.537
+Exp2_Inversion Mutation,inst-c.tsp,Default with Inversion,30,1000,100,0,0.9,1,0.2,0.1,0.5,3370682.00,3540331.93,14976821.10,162.694
+Exp3_Pc=0.8,inst-c.tsp,Pc=0.8,30,1000,100,0,0.8,0,0.2,0.1,0.5,4627006.00,5041255.33,14976821.10,153.184
+Exp3_Pc=0.9,inst-c.tsp,Pc=0.9 (default),30,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5109186.10,14976821.10,161.344
+Exp3_Pc=1.0,inst-c.tsp,Pc=1.0,30,1000,100,0,1.0,0,0.2,0.1,0.5,4516175.00,5040405.37,14976821.10,170.060
+Exp4_Pm=0.05,inst-c.tsp,Pm=0.05,30,1000,100,0,0.9,0,0.05,0.1,0.5,5457720.00,5907724.63,14976821.10,158.509
+Exp4_Pm=0.2,inst-c.tsp,Pm=0.2 (default),30,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5109186.10,14976821.10,145.872
+Exp4_Pm=0.3,inst-c.tsp,Pm=0.3,30,1000,100,0,0.9,0,0.3,0.1,0.5,4581716.00,4974264.17,14976821.10,153.676
+Exp5_Elitism=0.0,inst-c.tsp,No Elitism,30,1000,100,0,0.9,0,0.2,0.0,0.5,5144669.00,5620329.20,14976821.10,178.958
+Exp5_Elitism=0.1,inst-c.tsp,Elitism=0.1 (default),30,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5109186.10,14976821.10,160.816
+"Exp6_Pop=50,Gen=2000",inst-c.tsp,50x2000 (100K total),30,2000,50,0,0.9,0,0.2,0.1,0.5,4554863.00,5025940.83,15076357.63,160.490
+"Exp6_Pop=100,Gen=1000",inst-c.tsp,100x1000 (100K total),30,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5109186.10,14976821.10,161.978
+"Exp6_Pop=200,Gen=500",inst-c.tsp,200x500 (100K total),30,500,200,0,0.9,0,0.2,0.1,0.5,4687014.00,5280858.67,14758807.80,163.270
+Evolution_Default_inst-c.tsp,inst-c.tsp,Evolution analysis - default settings (1 run for graph),30,1000,100,0,0.9,0,0.2,0.1,0.5,4665604.00,5109186.10,14976821.10,162.021
