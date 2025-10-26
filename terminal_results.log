@@ -1,0 +1,650 @@
+
+================================================================================
+STARTING EXPERIMENTS WITH 10 RUNS
+================================================================================
+
+Running Exp1_OX Crossover... (1/17)
+
+==================================================
+[OK] Exp1_OX Crossover (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4694543.00
+  Average Distance: 5102315.70
+  Initial Distance: 14955700.10
+  Total Time: 52.444s
+==================================================
+
+Running Exp1_Uniform Crossover... (2/17)
+
+==================================================
+[OK] Exp1_Uniform Crossover (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 5431582.00
+  Average Distance: 5875744.90
+  Initial Distance: 14955700.10
+  Total Time: 44.606s
+==================================================
+
+Running Exp2_Reciprocal Mutation... (3/17)
+
+==================================================
+[OK] Exp2_Reciprocal Mutation (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4694543.00
+  Average Distance: 5102315.70
+  Initial Distance: 14955700.10
+  Total Time: 51.218s
+==================================================
+
+Running Exp2_Inversion Mutation... (4/17)
+
+==================================================
+[OK] Exp2_Inversion Mutation (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 3370682.00
+  Average Distance: 3506561.00
+  Initial Distance: 14955700.10
+  Total Time: 53.496s
+==================================================
+
+Running Exp3_Pc=0.8... (5/17)
+
+==================================================
+[OK] Exp3_Pc=0.8 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4805633.00
+  Average Distance: 5004999.40
+  Initial Distance: 14955700.10
+  Total Time: 46.989s
+==================================================
+
+Running Exp3_Pc=0.9... (6/17)
+
+==================================================
+[OK] Exp3_Pc=0.9 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4694543.00
+  Average Distance: 5102315.70
+  Initial Distance: 14955700.10
+  Total Time: 49.185s
+==================================================
+
+Running Exp3_Pc=1.0... (7/17)
+
+==================================================
+[OK] Exp3_Pc=1.0 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4672327.00
+  Average Distance: 5018126.70
+  Initial Distance: 14955700.10
+  Total Time: 51.543s
+==================================================
+
+Running Exp4_Pm=0.05... (8/17)
+
+==================================================
+[OK] Exp4_Pm=0.05 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 5588116.00
+  Average Distance: 5846817.00
+  Initial Distance: 14955700.10
+  Total Time: 51.670s
+==================================================
+
+Running Exp4_Pm=0.2... (9/17)
+
+==================================================
+[OK] Exp4_Pm=0.2 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4694543.00
+  Average Distance: 5102315.70
+  Initial Distance: 14955700.10
+  Total Time: 53.700s
+==================================================
+
+Running Exp4_Pm=0.3... (10/17)
+
+==================================================
+[OK] Exp4_Pm=0.3 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4668607.00
+  Average Distance: 4976861.10
+  Initial Distance: 14955700.10
+  Total Time: 50.821s
+==================================================
+
+Running Exp5_Elitism=0.0... (11/17)
+
+==================================================
+[OK] Exp5_Elitism=0.0 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 5205204.00
+  Average Distance: 5656132.40
+  Initial Distance: 14955700.10
+  Total Time: 59.436s
+==================================================
+
+Running Exp5_Elitism=0.1... (12/17)
+
+==================================================
+[OK] Exp5_Elitism=0.1 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4694543.00
+  Average Distance: 5102315.70
+  Initial Distance: 14955700.10
+  Total Time: 53.743s
+==================================================
+
+Running Exp6_Pop=50,Gen=2000... (13/17)
+
+==================================================
+[OK] Exp6_Pop=50,Gen=2000 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 2000, popSize: 50
+  Best Distance: 4716412.00
+  Average Distance: 5104962.80
+  Initial Distance: 14998960.00
+  Total Time: 51.470s
+==================================================
+
+Running Exp6_Pop=100,Gen=1000... (14/17)
+
+==================================================
+[OK] Exp6_Pop=100,Gen=1000 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4694543.00
+  Average Distance: 5102315.70
+  Initial Distance: 14955700.10
+  Total Time: 48.256s
+==================================================
+
+Running Exp6_Pop=200,Gen=500... (15/17)
+
+==================================================
+[OK] Exp6_Pop=200,Gen=500 (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 500, popSize: 200
+  Best Distance: 4687014.00
+  Average Distance: 5224400.60
+  Initial Distance: 14718954.40
+  Total Time: 48.493s
+==================================================
+
+Running Default_inst-d.tsp... (16/17)
+
+==================================================
+[OK] Default_inst-d.tsp (inst-d.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 29535422.00
+  Average Distance: 32642630.50
+  Initial Distance: 109146552.20
+  Total Time: 267.963s
+==================================================
+
+Running Evolution_Default_inst-c.tsp... (17/17)
+
+==================================================
+[OK] Evolution_Default_inst-c.tsp (inst-c.tsp)
+  Number of Runs: 10
+  nIters: 1000, popSize: 100
+  Best Distance: 4694543.00
+  Average Distance: 5102315.70
+  Initial Distance: 14955700.10
+  Total Time: 53.573s
+==================================================
+
+
+============================================================
+[OK] ALL EXPERIMENTS COMPLETED!
+Results Recorded: experiment_results_run10.csv
+Total Test: 17
+============================================================
+
+Files:
+1. experiment_results.csv - All experiment's results
+2. evolution_data.csv - Evolution data
+============================================================
+
+================================================================================
+STARTING EXPERIMENTS WITH 20 RUNS
+================================================================================
+
+Running Exp1_OX Crossover... (1/17)
+
+==================================================
+[OK] Exp1_OX Crossover (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5127678.50
+  Initial Distance: 14997631.55
+  Total Time: 107.432s
+==================================================
+
+Running Exp1_Uniform Crossover... (2/17)
+
+==================================================
+[OK] Exp1_Uniform Crossover (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 5431582.00
+  Average Distance: 5865284.05
+  Initial Distance: 14997631.55
+  Total Time: 95.079s
+==================================================
+
+Running Exp2_Reciprocal Mutation... (3/17)
+
+==================================================
+[OK] Exp2_Reciprocal Mutation (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5127678.50
+  Initial Distance: 14997631.55
+  Total Time: 107.148s
+==================================================
+
+Running Exp2_Inversion Mutation... (4/17)
+
+==================================================
+[OK] Exp2_Inversion Mutation (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 3370682.00
+  Average Distance: 3523635.65
+  Initial Distance: 14997631.55
+  Total Time: 107.314s
+==================================================
+
+Running Exp3_Pc=0.8... (5/17)
+
+==================================================
+[OK] Exp3_Pc=0.8 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4774395.00
+  Average Distance: 5057826.10
+  Initial Distance: 14997631.55
+  Total Time: 101.725s
+==================================================
+
+Running Exp3_Pc=0.9... (6/17)
+
+==================================================
+[OK] Exp3_Pc=0.9 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5127678.50
+  Initial Distance: 14997631.55
+  Total Time: 107.517s
+==================================================
+
+Running Exp3_Pc=1.0... (7/17)
+
+==================================================
+[OK] Exp3_Pc=1.0 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4601258.00
+  Average Distance: 5085177.85
+  Initial Distance: 14997631.55
+  Total Time: 112.920s
+==================================================
+
+Running Exp4_Pm=0.05... (8/17)
+
+==================================================
+[OK] Exp4_Pm=0.05 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 5588116.00
+  Average Distance: 5889600.30
+  Initial Distance: 14997631.55
+  Total Time: 106.250s
+==================================================
+
+Running Exp4_Pm=0.2... (9/17)
+
+==================================================
+[OK] Exp4_Pm=0.2 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5127678.50
+  Initial Distance: 14997631.55
+  Total Time: 107.878s
+==================================================
+
+Running Exp4_Pm=0.3... (10/17)
+
+==================================================
+[OK] Exp4_Pm=0.3 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4668607.00
+  Average Distance: 4980880.90
+  Initial Distance: 14997631.55
+  Total Time: 108.065s
+==================================================
+
+Running Exp5_Elitism=0.0... (11/17)
+
+==================================================
+[OK] Exp5_Elitism=0.0 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 5144669.00
+  Average Distance: 5624904.95
+  Initial Distance: 14997631.55
+  Total Time: 119.301s
+==================================================
+
+Running Exp5_Elitism=0.1... (12/17)
+
+==================================================
+[OK] Exp5_Elitism=0.1 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5127678.50
+  Initial Distance: 14997631.55
+  Total Time: 107.458s
+==================================================
+
+Running Exp6_Pop=50,Gen=2000... (13/17)
+
+==================================================
+[OK] Exp6_Pop=50,Gen=2000 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 2000, popSize: 50
+  Best Distance: 4610018.00
+  Average Distance: 5003469.80
+  Initial Distance: 15049657.40
+  Total Time: 107.384s
+==================================================
+
+Running Exp6_Pop=100,Gen=1000... (14/17)
+
+==================================================
+[OK] Exp6_Pop=100,Gen=1000 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5127678.50
+  Initial Distance: 14997631.55
+  Total Time: 107.391s
+==================================================
+
+Running Exp6_Pop=200,Gen=500... (15/17)
+
+==================================================
+[OK] Exp6_Pop=200,Gen=500 (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 500, popSize: 200
+  Best Distance: 4687014.00
+  Average Distance: 5290664.70
+  Initial Distance: 14750933.00
+  Total Time: 108.666s
+==================================================
+
+Running Default_inst-d.tsp... (16/17)
+
+==================================================
+[OK] Default_inst-d.tsp (inst-d.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 29535422.00
+  Average Distance: 32976102.10
+  Initial Distance: 109251689.95
+  Total Time: 550.520s
+==================================================
+
+Running Evolution_Default_inst-c.tsp... (17/17)
+
+==================================================
+[OK] Evolution_Default_inst-c.tsp (inst-c.tsp)
+  Number of Runs: 20
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5127678.50
+  Initial Distance: 14997631.55
+  Total Time: 107.251s
+==================================================
+
+
+============================================================
+[OK] ALL EXPERIMENTS COMPLETED!
+Results Recorded: experiment_results_run20.csv
+Total Test: 17
+============================================================
+
+Files:
+1. experiment_results.csv - All experiment's results
+2. evolution_data.csv - Evolution data
+============================================================
+
+================================================================================
+STARTING EXPERIMENTS WITH 30 RUNS
+================================================================================
+
+Running Exp1_OX Crossover... (1/17)
+
+==================================================
+[OK] Exp1_OX Crossover (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5109186.10
+  Initial Distance: 14976821.10
+  Total Time: 161.281s
+==================================================
+
+Running Exp1_Uniform Crossover... (2/17)
+
+==================================================
+[OK] Exp1_Uniform Crossover (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 5431582.00
+  Average Distance: 5899030.70
+  Initial Distance: 14976821.10
+  Total Time: 143.525s
+==================================================
+
+Running Exp2_Reciprocal Mutation... (3/17)
+
+==================================================
+[OK] Exp2_Reciprocal Mutation (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5109186.10
+  Initial Distance: 14976821.10
+  Total Time: 161.537s
+==================================================
+
+Running Exp2_Inversion Mutation... (4/17)
+
+==================================================
+[OK] Exp2_Inversion Mutation (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 3370682.00
+  Average Distance: 3540331.93
+  Initial Distance: 14976821.10
+  Total Time: 162.694s
+==================================================
+
+Running Exp3_Pc=0.8... (5/17)
+
+==================================================
+[OK] Exp3_Pc=0.8 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4627006.00
+  Average Distance: 5041255.33
+  Initial Distance: 14976821.10
+  Total Time: 153.184s
+==================================================
+
+Running Exp3_Pc=0.9... (6/17)
+
+==================================================
+[OK] Exp3_Pc=0.9 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5109186.10
+  Initial Distance: 14976821.10
+  Total Time: 161.344s
+==================================================
+
+Running Exp3_Pc=1.0... (7/17)
+
+==================================================
+[OK] Exp3_Pc=1.0 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4516175.00
+  Average Distance: 5040405.37
+  Initial Distance: 14976821.10
+  Total Time: 170.060s
+==================================================
+
+Running Exp4_Pm=0.05... (8/17)
+
+==================================================
+[OK] Exp4_Pm=0.05 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 5457720.00
+  Average Distance: 5907724.63
+  Initial Distance: 14976821.10
+  Total Time: 158.509s
+==================================================
+
+Running Exp4_Pm=0.2... (9/17)
+
+==================================================
+[OK] Exp4_Pm=0.2 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5109186.10
+  Initial Distance: 14976821.10
+  Total Time: 145.872s
+==================================================
+
+Running Exp4_Pm=0.3... (10/17)
+
+==================================================
+[OK] Exp4_Pm=0.3 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4581716.00
+  Average Distance: 4974264.17
+  Initial Distance: 14976821.10
+  Total Time: 153.676s
+==================================================
+
+Running Exp5_Elitism=0.0... (11/17)
+
+==================================================
+[OK] Exp5_Elitism=0.0 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 5144669.00
+  Average Distance: 5620329.20
+  Initial Distance: 14976821.10
+  Total Time: 178.958s
+==================================================
+
+Running Exp5_Elitism=0.1... (12/17)
+
+==================================================
+[OK] Exp5_Elitism=0.1 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5109186.10
+  Initial Distance: 14976821.10
+  Total Time: 160.816s
+==================================================
+
+Running Exp6_Pop=50,Gen=2000... (13/17)
+
+==================================================
+[OK] Exp6_Pop=50,Gen=2000 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 2000, popSize: 50
+  Best Distance: 4554863.00
+  Average Distance: 5025940.83
+  Initial Distance: 15076357.63
+  Total Time: 160.490s
+==================================================
+
+Running Exp6_Pop=100,Gen=1000... (14/17)
+
+==================================================
+[OK] Exp6_Pop=100,Gen=1000 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5109186.10
+  Initial Distance: 14976821.10
+  Total Time: 161.978s
+==================================================
+
+Running Exp6_Pop=200,Gen=500... (15/17)
+
+==================================================
+[OK] Exp6_Pop=200,Gen=500 (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 500, popSize: 200
+  Best Distance: 4687014.00
+  Average Distance: 5280858.67
+  Initial Distance: 14758807.80
+  Total Time: 163.270s
+==================================================
+
+Running Default_inst-d.tsp... (16/17)
+[ERROR] Default_inst-d.tsp - TIMEOUT (10 dakikay� a�t�)
+Running Evolution_Default_inst-c.tsp... (17/17)
+
+==================================================
+[OK] Evolution_Default_inst-c.tsp (inst-c.tsp)
+  Number of Runs: 30
+  nIters: 1000, popSize: 100
+  Best Distance: 4665604.00
+  Average Distance: 5109186.10
+  Initial Distance: 14976821.10
+  Total Time: 162.021s
+==================================================
+
+
+============================================================
+[OK] ALL EXPERIMENTS COMPLETED!
+Results Recorded: experiment_results_run30.csv
+Total Test: 17
+============================================================
+
+Files:
+1. experiment_results.csv - All experiment's results
+2. evolution_data.csv - Evolution data
+============================================================
